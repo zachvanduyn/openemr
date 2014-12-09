@@ -1,5 +1,11 @@
-Welcome to [OpenEMR](http://www.open-emr.org/)!!!
+OpenEMR Bootstrapify. 
 =====================
+
+OpenEMR is awesome, but it's ugly. Let's help out.
+
+Authors: 
+* @zachvanduyn
+* @jaketimmer
 
 [OpenEMR](http://www.open-emr.org/) is a Free and Open Source electronic health records and
 medical practice management application. It is ONC Complete
